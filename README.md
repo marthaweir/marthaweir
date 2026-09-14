@@ -8,4 +8,4 @@ I'm a GIS & Data Science Intern with FracTracker Alliance, where I work with env
 
 ## Portfolio
 
-[View my GIS, data visualization, communications, and design work](https://madeinthemojave.com/portfolio)
+[View my GIS, data visualization, communications, and design work](https://martha-weir.squarespace.com/martha-weir-home)
